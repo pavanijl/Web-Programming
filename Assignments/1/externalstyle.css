@@ -1,0 +1,182 @@
+body {
+ 
+  background-image: url('background1.jpg');
+  background-size: cover;
+  
+}
+
+h1 {
+  
+  color: #77b300;
+  font-family: "Monotype corsiva";
+  font-size:300%;
+  background-color:#e6ffcc;
+  text-align:center;
+ }
+ 
+ h3 {
+  
+  color: black;
+  
+  font-size:230%;
+  
+  text-align:center;
+ }
+ 
+pre {
+  
+  font-family: times new roman;
+  white-space: pre;
+  margin: 1em 0;
+  color:#77b300;
+} 
+
+.special{
+	
+	color:red;
+	font-weight:bold;
+	text-decoration:underline;
+	text-align:center;
+}
+
+.gsucs{
+	color:red;
+	font-weight:bold;
+}
+
+.tab{
+	text-align:center;
+	margin-left:500px;
+	
+}
+#link{
+	text-decoration:underline;
+	text-align:center;
+	margin-bottom:20px;
+}
+
+h2{
+	
+  color: #77b300;
+  font-family: "Monotype corsiva";
+  font-size:200%;
+  background-color:#e6ffcc;
+  text-align:left;
+	
+}
+h5{
+	
+  font-size:100%;
+ 
+  text-align:center;
+	
+}
+
+.ul{
+	
+	list-style-type:square;
+	margin: 0;
+    padding: 0;
+}
+.ol{
+	
+	list-style-type:square;
+	margin: 0;
+    padding: 0;
+  }
+  
+  table, th, td, tr {
+  border: 1px solid black;
+}
+
+td{
+	text-align:center;
+	
+}
+
+tr{
+	background-color:red;
+}
+
+th{
+	
+	background-color: #d5ff80;
+    color: black;
+}
+table{
+
+  width: 100%;
+  border: 1px solid black;
+
+}
+#tablerow1{
+	
+	font-weight:bold;
+	background-color:#ffffb3;
+}
+#tablerow2{
+	
+	font-weight:bold;
+	background-color:#4dd2ff;
+}
+#tablerow3{
+	
+	font-weight:bold;
+	background-color:#ffad33;
+}
+#tablerow4{
+	
+	font-weight:bold;
+	background-color:#e6ff99;
+}
+#tablerow5{
+	
+	font-weight:bold;
+	background-color:#9494b8;
+}
+#tablerow6{
+	
+	font-weight:bold;
+	background-color:#e6e6e6;
+}
+#tablerow7{
+	
+	font-weight:bold;
+	background-color:#a3a375;
+}
+
+#tablerow8{
+	
+	font-weight:bold;
+	background-color:#ff7733;
+}
+#tablerow9{
+	
+	font-weight:bold;
+	background-color:#1aff1a;
+}
+#img{
+	
+	float:right;
+	border: 1px solid #ccc;
+}
+a:link {
+  
+  color:blue;
+  text-decoration:none;
+}
+
+a:visited {
+  background-color: purple;
+  text-decoration:none;
+}
+
+a:hover {
+  background-color: #e6fff2;
+  text-decoration:none;
+}
+
+a:active {
+  background-color: #b3ffff;
+  text-decoration:none;
+}
